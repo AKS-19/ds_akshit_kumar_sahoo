@@ -12,7 +12,7 @@ notebook_1.ipynb: Main analysis notebook.
 
 Contains all data loading, cleaning, analysis, and visualizations.
 
-Historical Trader Data from Hyperliquid:(Provided the google drive link for this csv due to 25mb limitation of GitHub)
+Historical Trader Data:(Provided the google drive link for this csv due to 25mb limitation of GitHub)
 
 Link: https://drive.google.com/file/d/1Zjo-RW6MG-widSoco3_eIPcUbCVbKpcI/view?usp=drive_link
 
@@ -47,4 +47,5 @@ Notes:
 2.Leverage is approximated using trade size (Size USD) due to lack of explicit leverage data.
 
 3.All notebooks are shared with public viewer access as required.
+
 
